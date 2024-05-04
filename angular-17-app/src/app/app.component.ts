@@ -10,5 +10,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Título de aplicación de Angular';
+  title = 'Título de aplicación de Angular verison 17';
 }
